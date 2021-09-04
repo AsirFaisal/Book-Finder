@@ -1,0 +1,11 @@
+body {
+  background-color: #e1dcc5;
+}
+#display {
+  margin: 35px 35px 35px 35px;
+  margin-left: 50px !important;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 5px;
+  row-gap: 10px;
+}
